@@ -15,7 +15,7 @@ git push -u origin <ENTER YOUR NAME>
 ```
 git checkout master
 git pull
-git checkout <NAME OF YOUR BRANCH>
+git checkout <ENTER YOUR NAME>
 git merge master
 ```
 
