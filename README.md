@@ -2,7 +2,7 @@ Welcome Class!
 ====================================
 
 ### This is our After Hours review project.
-## If you are new the project and would like to start working from where we are, follow the following directions *exactly*:
+## If you are new to the project and would like to start working from where we are, follow the following directions *exactly*:
 ```
 git clone https://github.com/1VinceP/star-wars-review
 git checkout -b <ENTER YOUR NAME>
